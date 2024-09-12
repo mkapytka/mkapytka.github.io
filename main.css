@@ -119,7 +119,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h1,h2 {
     letter-spacing: -1px;
-    font-family: "Open Sans",sans-serif;
+    font-family: "Mona Sans",sans-serif;
     font-size: 2.941rem;
     line-height: 3.2351rem;
     font-weight: bold
@@ -404,7 +404,7 @@ form input {
     font-size: 1.15rem;
     line-height: 1.84rem;
     color: #3F3F3F;
-    font-family: "Open Sans",sans-serif;
+    font-family: "Mona Sans",sans-serif;
     background: #fdfdfd;
     border: 1px solid #3F3F3F;
     padding: 8.3333333333px
@@ -998,7 +998,7 @@ form input[type=submit]:active {
 
 .post-list .post-meta {
     font-size: 19px;
-    font-family: "Open Sans",sans-serif;
+    font-family: "Mona Sans",sans-serif;
     font-weight: 200;
     color: #3F3F3F
 }
@@ -1351,7 +1351,7 @@ form input[type=submit]:active {
 .msg-404 .title {
     font-size: 2.941rem;
     line-height: 3.2351rem;
-    font-family: "Open Sans",sans-serif;
+    font-family: "Mona Sans",sans-serif;
     color: #2f4a8f
 }
 
