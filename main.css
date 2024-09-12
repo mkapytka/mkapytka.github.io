@@ -1,10 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:800|PT+Serif");body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
-    margin: 0;
-    padding: 0
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
 }
 
 body {
-    font-family: "PT Serif",serif;
+    font-family: "Mona Sans",serif;
     font-size: 1.25rem;
     line-height: 2rem;
     font-weight: 400;
